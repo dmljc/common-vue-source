@@ -1,0 +1,35 @@
+@include el-b(header) {
+    padding: 0;
+}
+
+@include el-b(card) {
+    margin-bottom: 8px;
+    box-shadow: 2px 2px 3px 0 rgba(34,52,73,0.1);
+    border-radius: 4px;
+
+    @include e(header) {
+        font-size: 16px;
+        padding: 16px 20px; // 产品觉得card头部间距太大了
+        color: #333;
+        font-weight: bold;
+    }
+    @include e(body) {
+        padding: 16px 24px; // 产品觉得card间距太大了
+    }
+}
+
+@include el-b(main) {
+    padding: 24px 24px 0;
+    height: 100%;
+}
+
+@include el-b(container) {
+    height: 100%;
+}
+
+@include el-b(select) {
+    & .el-select__tags {
+        // 下拉框条目过长时隐藏
+        overflow: hidden;
+    }
+}

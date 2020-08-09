@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`control-button advanced usage control-button matchs snapshot case2 1`] = `
+<button
+  autofocus="autofocus"
+  class="el-button el-button--text el-button--small is-plain"
+  type="submit"
+>
+  <!---->
+  <i
+    class="el-icon-info"
+  />
+  <span>
+    导出
+  </span>
+</button>
+`;
+
+exports[`control-button base usage control-button matchs snapshot case1 1`] = `
+<button
+  class="el-button el-button--default"
+  type="button"
+>
+  <!---->
+  <!---->
+  <span>
+    导出
+  </span>
+</button>
+`;

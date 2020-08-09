@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`export-file methods method[export] has correct behavior 1`] = `
+<div
+  class="el-dialog__wrapper export-file-block"
+  name="dialog-fade"
+  style="z-index: 2003;"
+>
+  <div
+    class="el-dialog"
+    style="width: 680px; margin-top: 15vh;"
+  >
+    <div
+      class="el-dialog__header"
+    >
+      <span
+        class="el-dialog__title"
+      >
+        导出
+      </span>
+      <button
+        aria-label="Close"
+        class="el-dialog__headerbtn"
+        type="button"
+      >
+        <i
+          class="el-dialog__close el-icon el-icon-close"
+        />
+      </button>
+    </div>
+    <div
+      class="el-dialog__body"
+    >
+      <div>
+        <p
+          class="export-confirm__item"
+        >
+          您确认要导出当前查询条件下的所有数据吗？
+        </p>
+         
+        <p
+          class="export-confirm__item"
+        >
+          确认导出后，数据将以邮件的形式发送到您的工作邮箱
+        </p>
+      </div>
+       
+      <!---->
+       
+    </div>
+    <div
+      class="el-dialog__footer"
+    >
+      <div
+        class="f-tac"
+      >
+        <button
+          class="el-button el-button--default"
+          type="button"
+        >
+          <!---->
+          <!---->
+          <span>
+            取消
+          </span>
+        </button>
+         
+        <button
+          class="el-button el-button--primary"
+          type="button"
+        >
+          <!---->
+          <!---->
+          <span>
+            确认导出
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

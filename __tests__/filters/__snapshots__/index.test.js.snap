@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`filter.js CascaderNamesFilter equals CascaderNamesFilter to snapshot 1`] = `
+<div>
+  <span>
+    中国/杭州
+  </span>
+   
+  <span>
+    中国/杭州
+  </span>
+   
+  <span>
+    中国/杭州
+  </span>
+   
+  <span>
+    
+  </span>
+   
+  <span>
+    
+  </span>
+   
+  <span>
+    法国/巴黎
+  </span>
+   
+  <span>
+    --
+  </span>
+   
+  <span>
+    --
+  </span>
+   
+  <span>
+    --
+  </span>
+   
+  <span>
+    
+  </span>
+   
+  <span>
+    中国
+  </span>
+</div>
+`;
+
+exports[`filter.js SecondStrFilter equals SecondStrFilter to snapshot 1`] = `
+<div>
+  <span>
+    00:00:00
+  </span>
+   
+  <span>
+    00:00:-1
+  </span>
+   
+  <span>
+    00:01:00
+  </span>
+   
+  <span>
+    01:00:00
+  </span>
+   
+  <span>
+    23:59:59
+  </span>
+   
+  <span>
+    00:00:00
+  </span>
+</div>
+`;
+
+exports[`filter.js containerTypeList equals containerTypeFilter to snapshot 1`] = `
+<div>
+  <span>
+    
+  </span>
+   
+  <span>
+    
+  </span>
+   
+  <span>
+    
+  </span>
+   
+  <span>
+    1*20GP, 2*40GP, 3*20RF, 4*40RF, 5*40HC, 6*45HC
+  </span>
+   
+  <span>
+    1*20GP, 2*40GP, 3*20RF
+  </span>
+   
+  <span>
+    1*20GP, 0*40GP, *20RF
+  </span>
+</div>
+`;
+
+exports[`filter.js lsTraySizeStr equals lsTraySizeStr to snapshot 1`] = `
+<div>
+  <span>
+    --
+  </span>
+   
+  <span>
+    --
+  </span>
+   
+  <span>
+    --
+  </span>
+   
+  <span>
+    0 cm * 0 cm * 0 cm * 0 件
+  </span>
+   
+  <span>
+    0 cm * 0 cm * 0 cm * 0 件, 99 cm * 99 cm * 99 cm * 99 件
+  </span>
+</div>
+`;
+
+exports[`filter.js selectionNames equals selectionNamesFilter to snapshot 1`] = `
+<div>
+  <span>
+    --
+  </span>
+   
+  <span>
+    中国, 美国
+  </span>
+   
+  <span>
+    --
+  </span>
+   
+  <span>
+    中国, 美国
+  </span>
+   
+  <span>
+    , 
+  </span>
+   
+  <span>
+    , 
+  </span>
+   
+  <span>
+    , 
+  </span>
+   
+  <span>
+    中国, , , 美国
+  </span>
+</div>
+`;

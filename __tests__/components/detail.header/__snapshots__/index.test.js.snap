@@ -1,0 +1,207 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`detail-header customs props detail-header customs props case1 1`] = `
+<div
+  class="header"
+>
+  <div
+    class="el-card is-always-shadow"
+  >
+    <!---->
+    <div
+      class="el-card__body"
+    >
+      <div
+        class="header-title"
+      >
+        <div
+          class="el-row"
+        >
+          <div
+            class="el-col el-col-16"
+          >
+            <span>
+              标题
+            </span>
+          </div>
+           
+          <!---->
+           
+          <div
+            align="right"
+            class="header__opts el-col el-col-8"
+          />
+           
+          <div
+            class="el-col el-col-24"
+          >
+            <span
+              class="header__status f-mt10"
+            >
+              状态
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`detail-header customs props detail-header customs props case2 1`] = `
+<div
+  class="header"
+>
+  <div
+    class="el-card is-always-shadow"
+  >
+    <!---->
+    <div
+      class="el-card__body"
+    >
+      <div
+        class="header-title"
+      >
+        <div
+          class="el-row"
+        >
+          <div
+            class="el-col el-col-8"
+          >
+            <span>
+              标题
+            </span>
+          </div>
+           
+          <div
+            class="el-col el-col-8"
+          >
+            <span>
+              子标题
+            </span>
+          </div>
+           
+          <div
+            align="right"
+            class="header__opts el-col el-col-8"
+          />
+           
+          <div
+            class="el-col el-col-24"
+          >
+            <span
+              class="header__status f-mt10"
+            >
+              状态
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`detail-header customs props detail-header customs props case3 1`] = `
+<div
+  class="header"
+>
+  <div
+    class="el-card is-always-shadow"
+  >
+    <!---->
+    <div
+      class="el-card__body"
+    >
+      <div
+        class="header-title"
+      >
+        <div
+          class="el-row"
+        >
+          <div
+            class="el-col el-col-8"
+          >
+            <span>
+              标题
+            </span>
+          </div>
+           
+          <div
+            class="el-col el-col-8"
+          >
+            <span>
+              子标题
+            </span>
+          </div>
+           
+          <div
+            align="right"
+            class="header__opts el-col el-col-8"
+          >
+            <button
+              class="el-button el-button--default"
+              title="导出"
+              type="button"
+            >
+              <!---->
+              <!---->
+              <!---->
+            </button>
+          </div>
+           
+          <div
+            class="el-col el-col-24"
+          >
+            <span
+              class="header__status f-mt10"
+            >
+              状态
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`detail-header default props & data detail-header default props & data 1`] = `
+<div
+  class="header"
+>
+  <div
+    class="el-card is-always-shadow"
+  >
+    <!---->
+    <div
+      class="el-card__body"
+    >
+      <div
+        class="header-title"
+      >
+        <div
+          class="el-row"
+        >
+          <div
+            class="el-col el-col-16"
+          >
+            <span>
+              
+            </span>
+          </div>
+           
+          <!---->
+           
+          <div
+            align="right"
+            class="header__opts el-col el-col-8"
+          />
+           
+          <!---->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,457 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`util.js createBelongMonth createBelongMonth(2018) month has correct response 1`] = `
+Array [
+  Object {
+    "children": Array [
+      Object {
+        "id": "2018-1",
+        "name": "1月",
+      },
+      Object {
+        "id": "2018-2",
+        "name": "2月",
+      },
+      Object {
+        "id": "2018-3",
+        "name": "3月",
+      },
+      Object {
+        "id": "2018-4",
+        "name": "4月",
+      },
+      Object {
+        "id": "2018-5",
+        "name": "5月",
+      },
+      Object {
+        "id": "2018-6",
+        "name": "6月",
+      },
+      Object {
+        "id": "2018-7",
+        "name": "7月",
+      },
+      Object {
+        "id": "2018-8",
+        "name": "8月",
+      },
+      Object {
+        "id": "2018-9",
+        "name": "9月",
+      },
+      Object {
+        "id": "2018-10",
+        "name": "10月",
+      },
+      Object {
+        "id": "2018-11",
+        "name": "11月",
+      },
+      Object {
+        "id": "2018-12",
+        "name": "12月",
+      },
+    ],
+    "id": 2018,
+    "name": "2018年",
+  },
+  Object {
+    "children": Array [
+      Object {
+        "id": "2019-1",
+        "name": "1月",
+      },
+      Object {
+        "id": "2019-2",
+        "name": "2月",
+      },
+      Object {
+        "id": "2019-3",
+        "name": "3月",
+      },
+      Object {
+        "id": "2019-4",
+        "name": "4月",
+      },
+      Object {
+        "id": "2019-5",
+        "name": "5月",
+      },
+      Object {
+        "id": "2019-6",
+        "name": "6月",
+      },
+      Object {
+        "id": "2019-7",
+        "name": "7月",
+      },
+      Object {
+        "id": "2019-8",
+        "name": "8月",
+      },
+      Object {
+        "id": "2019-9",
+        "name": "9月",
+      },
+      Object {
+        "id": "2019-10",
+        "name": "10月",
+      },
+      Object {
+        "id": "2019-11",
+        "name": "11月",
+      },
+      Object {
+        "id": "2019-12",
+        "name": "12月",
+      },
+    ],
+    "id": 2019,
+    "name": "2019年",
+  },
+]
+`;
+
+exports[`util.js createBelongMonth createBelongMonth(2018, true) month has correct response 1`] = `
+Array [
+  Object {
+    "children": Array [
+      Object {
+        "id": "2018-01",
+        "name": "1月",
+      },
+      Object {
+        "id": "2018-02",
+        "name": "2月",
+      },
+      Object {
+        "id": "2018-03",
+        "name": "3月",
+      },
+      Object {
+        "id": "2018-04",
+        "name": "4月",
+      },
+      Object {
+        "id": "2018-05",
+        "name": "5月",
+      },
+      Object {
+        "id": "2018-06",
+        "name": "6月",
+      },
+      Object {
+        "id": "2018-07",
+        "name": "7月",
+      },
+      Object {
+        "id": "2018-08",
+        "name": "8月",
+      },
+      Object {
+        "id": "2018-09",
+        "name": "9月",
+      },
+      Object {
+        "id": "2018-10",
+        "name": "10月",
+      },
+      Object {
+        "id": "2018-11",
+        "name": "11月",
+      },
+      Object {
+        "id": "2018-12",
+        "name": "12月",
+      },
+    ],
+    "id": 2018,
+    "name": "2018年",
+  },
+  Object {
+    "children": Array [
+      Object {
+        "id": "2019-01",
+        "name": "1月",
+      },
+      Object {
+        "id": "2019-02",
+        "name": "2月",
+      },
+      Object {
+        "id": "2019-03",
+        "name": "3月",
+      },
+      Object {
+        "id": "2019-04",
+        "name": "4月",
+      },
+      Object {
+        "id": "2019-05",
+        "name": "5月",
+      },
+      Object {
+        "id": "2019-06",
+        "name": "6月",
+      },
+      Object {
+        "id": "2019-07",
+        "name": "7月",
+      },
+      Object {
+        "id": "2019-08",
+        "name": "8月",
+      },
+      Object {
+        "id": "2019-09",
+        "name": "9月",
+      },
+      Object {
+        "id": "2019-10",
+        "name": "10月",
+      },
+      Object {
+        "id": "2019-11",
+        "name": "11月",
+      },
+      Object {
+        "id": "2019-12",
+        "name": "12月",
+      },
+    ],
+    "id": 2019,
+    "name": "2019年",
+  },
+]
+`;
+
+exports[`util.js renderHeader equals renderHeader('tips') to snapshot 1`] = `
+<div>
+    <div class="el-table el-table--fit el-table--scrollable-x el-table--enable-row-hover el-table--enable-row-transition">
+        <div class="hidden-columns">
+            <div></div>
+        </div>
+        <div class="el-table__header-wrapper">
+            <table cellspacing="0" cellpadding="0" border="0" class="el-table__header" style="width: 80px;">
+                <colgroup>
+                    <col name="el-table_1_column_1" width="80">
+                </colgroup>
+                <thead class="">
+                    <tr class="">
+                        <th colspan="1" rowspan="1" class="el-table_1_column_1     is-leaf">
+                            <div class="cell"><span><span class="el-tooltip" style="padding: 11px 0px; line-height: 14px;" aria-describedby="" tabindex="0">&#22995;&#21517;</span></span></div>
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div class="el-table__body-wrapper is-scrolling-left">
+            <table cellspacing="0" cellpadding="0" border="0" class="el-table__body" style="width: 80px;">
+                <colgroup>
+                    <col name="el-table_1_column_1" width="80">
+                </colgroup>
+                <tbody>
+                    <tr class="el-table__row">
+                        <td rowspan="1" colspan="1" class="el-table_1_column_1  ">
+                            <div class="cell">&#24352;&#19977;</div>
+                        </td>
+                    </tr>
+                    <!---->
+                </tbody>
+            </table>
+            <!---->
+            <!---->
+        </div>
+        <!---->
+        <!---->
+        <!---->
+        <!---->
+        <div class="el-table__column-resize-proxy" style="display: none;"></div>
+    </div>
+</div>
+`;
+
+exports[`util.js renderHeader equals renderHeader('tips', 'el-icon-info') to snapshot 1`] = `
+<div>
+    <div class="el-table el-table--fit el-table--scrollable-x el-table--enable-row-hover el-table--enable-row-transition">
+        <div class="hidden-columns">
+            <div></div>
+        </div>
+        <div class="el-table__header-wrapper">
+            <table cellspacing="0" cellpadding="0" border="0" class="el-table__header" style="width: 80px;">
+                <colgroup>
+                    <col name="el-table_2_column_2" width="80">
+                </colgroup>
+                <thead class="">
+                    <tr class="">
+                        <th colspan="1" rowspan="1" class="el-table_2_column_2     is-leaf">
+                            <div class="cell"><span>&#22995;&#21517;<i class="el-tooltip el-icon-info" style="padding: 11px 0px; line-height: 14px; display: inline; margin-left: 5px;" aria-describedby="" tabindex="0"></i></span></div>
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div class="el-table__body-wrapper is-scrolling-left">
+            <table cellspacing="0" cellpadding="0" border="0" class="el-table__body" style="width: 80px;">
+                <colgroup>
+                    <col name="el-table_2_column_2" width="80">
+                </colgroup>
+                <tbody>
+                    <tr class="el-table__row">
+                        <td rowspan="1" colspan="1" class="el-table_2_column_2  ">
+                            <div class="cell">&#24352;&#19977;</div>
+                        </td>
+                    </tr>
+                    <!---->
+                </tbody>
+            </table>
+            <!---->
+            <!---->
+        </div>
+        <!---->
+        <!---->
+        <!---->
+        <!---->
+        <div class="el-table__column-resize-proxy" style="display: none;"></div>
+    </div>
+</div>
+`;
+
+exports[`util.js renderHeader equals renderHeader('tips', 'el-icon-info', true) to snapshot 1`] = `
+<div>
+    <div class="el-table el-table--fit el-table--scrollable-x el-table--enable-row-hover el-table--enable-row-transition">
+        <div class="hidden-columns">
+            <div></div>
+        </div>
+        <div class="el-table__header-wrapper">
+            <table cellspacing="0" cellpadding="0" border="0" class="el-table__header" style="width: 80px;">
+                <colgroup>
+                    <col name="el-table_5_column_5" width="80">
+                </colgroup>
+                <thead class="">
+                    <tr class="">
+                        <th colspan="1" rowspan="1" class="el-table_5_column_5     is-leaf">
+                            <div class="cell"><span><i style="color: rgb(255, 0, 0);">*&NonBreakingSpace;</i>&#22995;&#21517;<i class="el-tooltip el-icon-info" style="padding: 11px 0px; line-height: 14px; display: inline; margin-left: 5px;" aria-describedby="" tabindex="0"></i></span></div>
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div class="el-table__body-wrapper is-scrolling-left">
+            <table cellspacing="0" cellpadding="0" border="0" class="el-table__body" style="width: 80px;">
+                <colgroup>
+                    <col name="el-table_5_column_5" width="80">
+                </colgroup>
+                <tbody>
+                    <tr class="el-table__row">
+                        <td rowspan="1" colspan="1" class="el-table_5_column_5  ">
+                            <div class="cell">&#24352;&#19977;</div>
+                        </td>
+                    </tr>
+                    <!---->
+                </tbody>
+            </table>
+            <!---->
+            <!---->
+        </div>
+        <!---->
+        <!---->
+        <!---->
+        <!---->
+        <div class="el-table__column-resize-proxy" style="display: none;"></div>
+    </div>
+</div>
+`;
+
+exports[`util.js renderHeader equals renderHeader('tips', null, true) to snapshot 1`] = `
+<div>
+    <div class="el-table el-table--fit el-table--scrollable-x el-table--enable-row-hover el-table--enable-row-transition">
+        <div class="hidden-columns">
+            <div></div>
+        </div>
+        <div class="el-table__header-wrapper">
+            <table cellspacing="0" cellpadding="0" border="0" class="el-table__header" style="width: 80px;">
+                <colgroup>
+                    <col name="el-table_4_column_4" width="80">
+                </colgroup>
+                <thead class="">
+                    <tr class="">
+                        <th colspan="1" rowspan="1" class="el-table_4_column_4     is-leaf">
+                            <div class="cell"><span><span class="el-tooltip" style="padding: 11px 0px; line-height: 14px;" aria-describedby="" tabindex="0"><i style="color: rgb(255, 0, 0);">*&NonBreakingSpace;</i>&#22995;&#21517;</span></span></div>
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div class="el-table__body-wrapper is-scrolling-left">
+            <table cellspacing="0" cellpadding="0" border="0" class="el-table__body" style="width: 80px;">
+                <colgroup>
+                    <col name="el-table_4_column_4" width="80">
+                </colgroup>
+                <tbody>
+                    <tr class="el-table__row">
+                        <td rowspan="1" colspan="1" class="el-table_4_column_4  ">
+                            <div class="cell">&#24352;&#19977;</div>
+                        </td>
+                    </tr>
+                    <!---->
+                </tbody>
+            </table>
+            <!---->
+            <!---->
+        </div>
+        <!---->
+        <!---->
+        <!---->
+        <!---->
+        <div class="el-table__column-resize-proxy" style="display: none;"></div>
+    </div>
+</div>
+`;
+
+exports[`util.js renderHeader equals renderHeader(null, null, true) to snapshot 1`] = `
+<div>
+    <div class="el-table el-table--fit el-table--scrollable-x el-table--enable-row-hover el-table--enable-row-transition">
+        <div class="hidden-columns">
+            <div></div>
+        </div>
+        <div class="el-table__header-wrapper">
+            <table cellspacing="0" cellpadding="0" border="0" class="el-table__header" style="width: 80px;">
+                <colgroup>
+                    <col name="el-table_3_column_3" width="80">
+                </colgroup>
+                <thead class="">
+                    <tr class="">
+                        <th colspan="1" rowspan="1" class="el-table_3_column_3     is-leaf">
+                            <div class="cell"><span style="padding: 11px 0px; line-height: 14px;"><i style="color: rgb(255, 0, 0);">*&NonBreakingSpace;</i>&#22995;&#21517;</span></div>
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div class="el-table__body-wrapper is-scrolling-left">
+            <table cellspacing="0" cellpadding="0" border="0" class="el-table__body" style="width: 80px;">
+                <colgroup>
+                    <col name="el-table_3_column_3" width="80">
+                </colgroup>
+                <tbody>
+                    <tr class="el-table__row">
+                        <td rowspan="1" colspan="1" class="el-table_3_column_3  ">
+                            <div class="cell">&#24352;&#19977;</div>
+                        </td>
+                    </tr>
+                    <!---->
+                </tbody>
+            </table>
+            <!---->
+            <!---->
+        </div>
+        <!---->
+        <!---->
+        <!---->
+        <!---->
+        <div class="el-table__column-resize-proxy" style="display: none;"></div>
+    </div>
+</div>
+`;

@@ -1,0 +1,15 @@
+before_script:
+  # - date -R
+  - cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+  # - date -R
+#   - echo 'Asia/Shanghai' >/etc/timezone
+#   - date -R
+
+stages:
+  - build
+  - test
+  - deploy
+
+jest:
+  stage: test
+  script: "npm install && npm run test"

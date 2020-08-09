@@ -1,0 +1,23 @@
+[
+  {
+    "location": ".",
+    "name": "@kaola/cpk.wl.logistics-compose-web",
+    "newName": "@kaola/cpk.wl.logistics-compose-web",
+    "pubConfList": [
+      {
+        "name": "@kaola/cpk.wl.logistics-compose-web",
+        "npm": "nenpm",
+        "publishConfig": {
+          "registry": "http://rnpm.hz.netease.com"
+        }
+      },
+      {
+        "name": "@kaola/cpk.wl.logistics-compose-web",
+        "npm": "tnpm",
+        "publishConfig": {
+          "registry": "https://registry.npm.alibaba-inc.com"
+        }
+      }
+    ]
+  }
+]
